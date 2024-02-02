@@ -8,3 +8,5 @@
 - Java [InstallerJDK21](https://www.oracle.com/java/technologies/downloads/#jdk21-windows)
 - JavaFx [JavaFx-SDK17](https://gluonhq.com/products/javafx/)
 - JavaFx SceneBuilder [JavaFx-SceneBuilder](https://gluonhq.com/products/scene-builder/)
+## Screens
+![Standard Calculator](https://github.com/ZEZOH20/pet/blob/main/projectScreens/calculator1.png)
